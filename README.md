@@ -5,7 +5,7 @@ This repository contains portfolios of data analytics/science projects completed
 # Data Mining - R, Python
 1. Clustering of Customer and Product data(Elbow Chart, K-Means)
 2. Classification with Car data(Decision Tree, ROC, K-Fold)
-3. [Data cleaning with Sales data](https://github.com/shinn1726/data-science-project/tree/main/sales%20data%20cleaning)(Python, 
+3. [Data cleaning with Sales data](https://github.com/shinn1726/data-science-project/blob/main/sales%20data%20cleaning/Basic%20Data%20Cleaning%20Project.ipynb)(Python, 
 
 # Data Analytics - Tableau
 1. Current Analysis for house rental situation in Halifax
