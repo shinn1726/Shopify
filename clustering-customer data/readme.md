@@ -14,7 +14,7 @@ I have tried to analyse sales transaction data for an online retail store for tr
 
 Table Name – OnlineRetail
 
-Following are the data columns available in input data in original version: -
+Following are the data columns available in input data in original version: -<br />
 
 •	Invoice No – It refers to unique receipt number generated for every sale transaction.<br />
 •	Stock Code – It refers to unique alpha numeric code for every product.<br />
@@ -28,19 +28,19 @@ Following are the data columns available in input data in original version: -
 
 Data Summary
 
-Total number of records – 541909
-Number of distinct products - 3940
-Number of distinct customers – 4373
-Number of distinct countries – 38
+Total number of records – 541909<br />
+Number of distinct products - 3940<br />
+Number of distinct customers – 4373<br />
+Number of distinct countries – 38<br />
 
-Please refer to 'dataset.csv' for more details. (The data set is after cleanedd and secelcted from MySQL database using SQL query)
-Selected features
+Please refer to 'dataset.csv' for more details. (The data set is after cleanedd and secelcted from MySQL database using SQL query)<br /><br />
+Selected features<br />
 ![Test Image 1](images/customer_selected features.PNG)
 
 # Data Cleaning and Outlier Removal
 
-After analysing customer data, I removed NULL value using SQL queries.
-Now, I plotted the data distribution for every feature (using ggpair), to visualise the outliers in them (if any):
+After analysing customer data, I removed NULL value using SQL queries.<br />
+Now, I plotted the data distribution for every feature (using ggpair), to visualise the outliers in them (if any):<br />
 
 ![Test Image 1](images/outlier_remove.PNG)
 
