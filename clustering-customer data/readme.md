@@ -35,7 +35,7 @@ Number of distinct countries – 38<br />
 
 Please refer to 'dataset.csv' for more details. (The data set is after cleanedd and secelcted from MySQL database using SQL query)<br /><br />
 Selected features<br />
-![Test Image 1](images/customer_selected features.PNG)
+![Test Image 1](images/customer_selectedfeatures.PNG)
 
 # Data Cleaning and Outlier Removal
 
