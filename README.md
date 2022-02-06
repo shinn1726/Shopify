@@ -1,5 +1,6 @@
 # Data Science Projects
 This repository contains portfolios of data analytics/science projects completed by myself for academic, self learning, and hobby purposes. Python, R studio, related software are required to excute the application.
+Please click on the below blue link for details of projects!
 
 
 # Data Mining - R, Python
