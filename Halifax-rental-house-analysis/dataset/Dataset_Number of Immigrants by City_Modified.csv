@@ -1,0 +1,41 @@
+﻿id,Geography,Year,Immigrants,Emigrants,Returning emigrants,Net temporary emigration,Net interprovincial migration,Net intraprovincial migration,Net non-permanent residents,Residual deviation
+2016H,"Halifax (CMA), Nova Scotia",2016,4469,826,396,207,104,1345,1644,-1922
+2016Q,"Québec (CMA), Quebec",2016,3233,595,287,266,-1062,1107,958,-285
+2016M,"Montréal (CMA), Quebec",2016,46771,7976,4687,3541,-8226,-8455,799,-10620
+2016O,"Ottawa - Gatineau (CMA), Ontario part, Ontario",2016,7436,3024,1750,1299,3436,2889,2911,-1191
+2016T,"Toronto (CMA), Ontario",2016,91673,17494,12129,7505,6833,-34227,11405,-15016
+2016K,"Kitchener - Cambridge - Waterloo (CMA), Ontario",2016,3818,1496,629,648,375,3014,3911,92
+2016C,"Calgary (CMA), Alberta",2016,24859,4808,2814,1190,-4424,742,-4680,-1477
+2016V,"Vancouver (CMA), British Columbia",2016,34750,9574,4942,3788,9095,-9928,-5223,8528
+2017H,"Halifax (CMA), Nova Scotia",2017,3584,578,469,186,1532,993,1040,..
+2017Q,"Québec (CMA), Quebec",2017,2842,547,324,263,-807,1159,721,..
+2017M,"Montréal (CMA), Quebec",2017,45013,7215,4570,3608,-6162,-9517,14782,..
+2017O,"Ottawa - Gatineau (CMA), Ontario part, Ontario",2017,6125,2204,1944,1166,4870,6645,4093,..
+2017T,"Toronto (CMA), Ontario",2017,75061,14833,12164,7710,7431,-47969,37057,..
+2017K,"Kitchener - Cambridge - Waterloo (CMA), Ontario",2017,2970,1188,706,609,428,3083,3770,..
+2017C,"Calgary (CMA), Alberta",2017,18886,4357,2434,1265,-5620,2559,-3592,..
+2017V,"Vancouver (CMA), British Columbia",2017,28023,8595,4647,3816,5718,-13099,13544,..
+2018H,"Halifax (CMA), Nova Scotia",2018,4353,683,384,184,1456,1023,1175,..
+2018Q,"Québec (CMA), Quebec",2018,2363,475,293,308,-541,1723,2679,..
+2018M,"Montréal (CMA), Quebec",2018,40648,5518,4365,3590,-4510,-12243,38347,..
+2018O,"Ottawa - Gatineau (CMA), Ontario part, Ontario",2018,7929,1926,2010,1215,4361,3192,4678,..
+2018T,"Toronto (CMA), Ontario",2018,102740,12674,12418,7835,4897,-48280,39944,..
+2018K,"Kitchener - Cambridge - Waterloo (CMA), Ontario",2018,4210,864,666,529,662,2494,5577,..
+2018C,"Calgary (CMA), Alberta",2018,17425,3681,2592,1289,-1896,2444,-860,..
+2018V,"Vancouver (CMA), British Columbia",2018,33295,7995,4360,3906,3771,-14437,18902,..
+2019H,"Halifax (CMA), Nova Scotia",2019,5411,690,454,187,1602,1034,1353,..
+2019Q,"Québec (CMA), Quebec",2019,2368,482,258,308,-224,2272,2918,..
+2019M,"Montréal (CMA), Quebec",2019,37660,5594,4453,3645,-4342,-14117,39953,..
+2019O,"Ottawa - Gatineau (CMA), Ontario part, Ontario",2019,9183,1952,1808,1232,3690,3143,4754,..
+2019T,"Toronto (CMA), Ontario",2019,106700,12851,12830,7944,2718,-46549,41931,..
+2019K,"Kitchener - Cambridge - Waterloo (CMA), Ontario",2019,4407,875,780,537,411,1019,6880,..
+2019C,"Calgary (CMA), Alberta",2019,18630,3732,2744,1306,104,2535,1794,..
+2019V,"Vancouver (CMA), British Columbia",2019,34562,8109,4490,3962,3363,-11847,22015,..
+2020H,"Halifax (CMA), Nova Scotia",2020,5142,528,395,129,1584,876,871,..
+2020Q,"Québec (CMA), Quebec",2020,2242,359,221,208,58,1563,2371,..
+2020M,"Montréal (CMA), Quebec",2020,27705,4202,3790,2485,-3175,-24880,24921,..
+2020O,"Ottawa - Gatineau (CMA), Ontario part, Ontario",2020,8089,1511,1539,845,2785,3326,3410,..
+2020T,"Toronto (CMA), Ontario",2020,96664,9848,10909,5433,284,-50375,23725,..
+2020K,"Kitchener - Cambridge - Waterloo (CMA), Ontario",2020,4652,666,663,362,252,880,4607,..
+2020C,"Calgary (CMA), Alberta",2020,16426,2834,2334,897,1931,2176,763,..
+2020V,"Vancouver (CMA), British Columbia",2020,36517,6243,3825,2705,4381,-12189,131,..
