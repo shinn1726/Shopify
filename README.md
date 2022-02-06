@@ -2,7 +2,7 @@
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
 
 
-# Data Mining - R, Pythonp
+# Data Mining - R, Python
 1. Clustering of Customer and Product data(Elbow Chart, K-Means)
 2. Classification with Car data(Decision Tree, ROC, K-Fold)
 
