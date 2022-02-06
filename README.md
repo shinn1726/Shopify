@@ -8,7 +8,7 @@ This repository contains portfolios of data analytics/science projects completed
 3. [Data cleaning with Sales data](https://github.com/shinn1726/data-science-project/blob/main/datacleaning-sales/datacleaning_sales.ipynb)(Python, skew, pandas)
 
 # Data Analytics - Tableau
-1. Current Analysis for house rental situation in Halifax
+1. [Current Analysis for house rental situation in Halifax](https://github.com/shinn1726/data-science-project/blob/main/Halifax-rental-house-analysis/Infographics.pdf)
 
 # Machine Learning - Python
 1. Linear Regression
