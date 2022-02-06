@@ -61,9 +61,10 @@ Characteristics profiling involves either determining a single data point that b
 Differential profiling is a supervised process where the cluster labels are combined with the existing data to determine what characteristics best explain the differences in the profiles. <br />
 I tried to focus on Characteristic profiling by analyzing the centroid for each cluster and identifying determining characteristics for membership using K-mean in R script.<br />
 
-•	Customer Clusters Overview<br />
+•	Customer Clusters Overview and Summary<br />
 ![Test Image 1](images/customer_overview.PNG)
-
+![Test Image 1](images/customer_clusters visualized.PNG)
+![Test Image 1](images/table2.PNG)
 
 
 
