@@ -49,4 +49,21 @@ Customer ID 17841, 14911, 14096, 12748 are detected based on the filter. Those c
 
 ![Test Image 1](images/outlier_remove2.PNG)
 
+# Cluster Analysis
+After the outliers are removed from the table and the data is normalized, I ploted an elbow graph to determine the optimal number of clusters between 1 and 50 for determining K value of K-Mean. As I can see from the below graph there is a curve at around 6 and 7 so the value of k is either 6 or 7.<br />
+
+•	Customer elbow chart<br />
+![Test Image 1](images/elbow_chart.PNG)
+
+# Cluster Profiling
+Once the number of clusters has been set and clarified, two approaches can be performed: Characteristic profiling and differential profiling. <br />
+Characteristics profiling involves either determining a single data point that best represents the entire cluster or using the centroid to describe the average characteristics of data points in the cluster. <br />
+Differential profiling is a supervised process where the cluster labels are combined with the existing data to determine what characteristics best explain the differences in the profiles. <br />
+I tried to focus on Characteristic profiling by analyzing the centroid for each cluster and identifying determining characteristics for membership using K-mean in R script.<br />
+
+•	Customer Clusters Overview<br />
+![Test Image 1](images/customer_overview.PNG)
+
+
+
 
