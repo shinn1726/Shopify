@@ -65,7 +65,7 @@ I tried to focus on Characteristic profiling by analyzing the centroid for each 
 ![Test Image 1](images/customer_overview.PNG)<br />
 
 •	Customer Clusters Overview<br />
-![Test Image 1](images/customer_clusters visualized.PNG)<br />
+![Test Image 1](images/visualization_customer.PNG)<br />
 ![Test Image 3](images/table2.PNG)
 
 
