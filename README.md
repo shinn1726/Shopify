@@ -1,5 +1,5 @@
 # Data Science Projects
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
+This repository contains portfolios of data analytics/science projects completed by myself for academic, self learning, and hobby purposes. Python, R studio, related software are required to excute the application.
 
 
 # Data Mining - R, Python
