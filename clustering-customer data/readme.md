@@ -16,15 +16,15 @@ Table Name – OnlineRetail
 
 Following are the data columns available in input data in original version: -
 
-•	Invoice No – It refers to unique receipt number generated for every sale transaction.
-•	Stock Code – It refers to unique alpha numeric code for every product.
-•	Description – It provides the name and brief description about the product.
-•	Quantity – Number of units purchased of a product.
-•	Invoice Date – It captures the date for every sale transaction.
-•	Unit Price – It refers to price for each unit of product.
-•	Customer ID – Unique number generated for every customer.
-•	Country – Country of residence of the customer.
-•	Invoice Date Time – It captures the date and time for every sale transaction.
+•	Invoice No – It refers to unique receipt number generated for every sale transaction.<br />
+•	Stock Code – It refers to unique alpha numeric code for every product.<br />
+•	Description – It provides the name and brief description about the product.<br />
+•	Quantity – Number of units purchased of a product.<br />
+•	Invoice Date – It captures the date for every sale transaction.<br />
+•	Unit Price – It refers to price for each unit of product.<br />
+•	Customer ID – Unique number generated for every customer.<br />
+•	Country – Country of residence of the customer.<br />
+•	Invoice Date Time – It captures the date and time for every sale transaction.<br />
 
 Data Summary
 
