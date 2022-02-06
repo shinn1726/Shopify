@@ -47,6 +47,6 @@ Now, I plotted the data distribution for every feature (using ggpair), to visual
 I could additionally remove the rows with ‘Number of distinct Product’ is higher than 1000 based on boxplot as shown below. <br />
 Customer ID 17841, 14911, 14096, 12748 are detected based on the filter. Those customers may buy more than 1000 different items, but comparably other customers buy much less.<br />
 
-![Test Image 1](images/outlier_remove1.PNG)
+![Test Image 1](images/outlier_remove2.PNG)
 
 
