@@ -1,2 +1,2 @@
 
-![Test Image 1](3DTest.png)(images/table1.PNG)
+![Test Image 1](images/table1.PNG)
