@@ -3,7 +3,7 @@
 In this analysis, I tried to classify the car data and help users to have a decision for car purchasing. I tranded the data using different classification algorithms and tune the parameters to predict the acceptibility of a car.
 
 # About the Data
-![Test Image 1](images/dataset.PNG)
+![Test Image 1](images/dataset.png)
 
 Columns
 •	Price – It refers to the range of price(Very high, High, Medium, Low).<br />
