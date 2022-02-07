@@ -26,5 +26,6 @@ You can see the result of decision make tree as below.
 ![Test Image 1](images/decisiontree.PNG)
 
 # Confusion Matrix/ Prove the accuracy
-You can finally check the accuracy of data using confusion matrix.
+You can finally check the accuracy of data using confusion matrix.<br />
+
 ![Test Image 1](images/acuracy.PNG)
