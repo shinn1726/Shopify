@@ -5,7 +5,7 @@ Please click on the below blue link for details of projects!
 
 # Data Mining - R, Python
 1. [Clustering of Customer and Product data](https://github.com/shinn1726/data-science-project/tree/main/clustering-customer%20data)(Elbow Chart, K-Means)
-2. [Classification with Car data](https://github.com/shinn1726/data-science-project/tree/main/clustering-customer%20data)(Decision Tree, ROC, K-Fold)
+2. [Classification with Car data](https://github.com/shinn1726/data-science-project/tree/main/classification-car%20data-decision%20tree)(Decision Tree, ROC, K-Fold)
 3. [Data cleaning with Sales data](https://github.com/shinn1726/data-science-project/blob/main/datacleaning-sales/datacleaning_sales.ipynb)(Python, skew, pandas)
 
 # Data Analytics - Tableau, infographic
