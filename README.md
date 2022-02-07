@@ -8,7 +8,7 @@ Please click on the below blue link for details of projects!
 2. Classification with Car data(Decision Tree, ROC, K-Fold)
 3. [Data cleaning with Sales data](https://github.com/shinn1726/data-science-project/blob/main/datacleaning-sales/datacleaning_sales.ipynb)(Python, skew, pandas)
 
-# Data Analytics - Tableau
+# Data Analytics - Tableau, infographic
 1. [Current Analysis for house rental situation in Halifax](https://github.com/shinn1726/data-science-project/blob/main/Halifax-rental-house-analysis/Infographics.pdf)
 
 # Machine Learning - Python
