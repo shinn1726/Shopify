@@ -1,6 +1,6 @@
 
 # Executive Summary
-In this analysis, I tried to classify the car data and help users to have a decision for car purchasing. I tranded the data using different classification algorithms and tune the parameters to predict the acceptibility of a car.
+In this analysis, I tried to classify the car data and help users to have a decision for car purchasing. I tranded the data using different classification algorithms and tune the parameters to predict the acceptibility of a car. Please refer to R script for the details of code.
 
 # About the Data
 ![Test Image 1](images/dataset.png)
