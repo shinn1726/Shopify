@@ -11,7 +11,3 @@ Please click on the below blue link for details of projects!
 # Data Analytics - Tableau, infographic
 1. [Current Analysis for house rental situation in Halifax](https://github.com/shinn1726/data-science-project/blob/main/Halifax-rental-house-analysis/Infographics.pdf)
 
-# Machine Learning - Python
-1. Linear Regression
-2. Logistic Regression
-3. Decision Tree
